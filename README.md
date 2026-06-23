@@ -1,1 +1,1 @@
-# Khmer Translator
+Khmer Translator
